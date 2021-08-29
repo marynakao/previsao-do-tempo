@@ -16,3 +16,8 @@ Para este projeto foram utilizados:
  - CSS
  - JavaScript
  - API [OpenWeather](https://openweathermap.org/)
+ <br>
+ 
+ ## Veja o projeto:
+ 
+ https://marynakao.github.io/previsao-do-tempo/
