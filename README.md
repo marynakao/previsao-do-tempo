@@ -18,6 +18,6 @@ Para este projeto foram utilizados:
  - API [OpenWeather](https://openweathermap.org/)
  <br>
  
- ## Veja o projeto:
+ ### Veja o projeto:
  
- https://marynakao.github.io/previsao-do-tempo/
+ https://previsao-do-tempo-marynakao.netlify.app/
